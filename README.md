@@ -1,3 +1,3 @@
 Merge confilict resolved 
 
-George Test.
+George Test. 
