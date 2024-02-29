@@ -1,3 +1,6 @@
 Hello this is a test
 
-Adding something new 
+add stuff
+Merge confilict resolved 
+George Test.
+
